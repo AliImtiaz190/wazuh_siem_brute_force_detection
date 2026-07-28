@@ -45,11 +45,20 @@ Automatically tags the alert with MITRE ATT&CK technique T1110 (Brute Force) und
 
 Result: Instead of seeing four separate low-priority failure logs, the SOC dashboard now surfaces a single, correctly prioritized "Brute force attack detected" alert — closer to how a real detection engineering workflow operates.
 
-Screenshots
-Dashboard Overview
-Custom Brute-Force Rule Triggering
-Endpoint Overview
-Rule Configuration Details
+## Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](./dashboard-overview.jpeg)
+
+### Custom Brute-Force Rule Triggering
+![Brute Force Alert](./brute-force-alert.png)
+
+### Endpoint Overview
+![Endpoint Overview](./endpoint.png)
+
+### Rule Configuration Details
+![Rule 100010 Details](./rule-100010-details.png)
+
 Tech Stack
 Wazuh 4.8.2 (Indexer, Manager, Dashboard, Filebeat)
 
