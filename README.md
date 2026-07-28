@@ -44,6 +44,17 @@ Result: instead of seeing four separate low-priority failure logs, the SOC dashb
 
 ## Screenshots
 
+### Dashboard Overview
+![Wazuh Dashboard Overview](screenshots/dashboard-overview.png)
+
+### Custom Brute-Force Rule Triggering
+![Brute Force Alert](screenshots/brute-force-alert.png)
+### Endpoint Overview
+![Endpoint Overview](screenshots/endpoint-overview.png)
+
+### Rule Configuration Details
+![Rule 100010 Details](screenshots/rule-100010-details.png)
+
 (Add your dashboard screenshots here — Overview page, Endpoints page, Security Alerts table, and the custom rule triggering in the dashboard.)
 
 ## Tech Stack
