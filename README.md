@@ -50,7 +50,7 @@ Result: instead of seeing four separate low-priority failure logs, the SOC dashb
 ![Brute Force Alert](./brute-force-alert.png)
 
 ### Endpoint Overview
-![Endpoint Overview](./Endpoint-Overview.png)
+![Endpoint Overview](./endpoint.png)
 
 ### Rule Configuration Details
 ![Rule 100010 Details](./rule-100010-details.png)
